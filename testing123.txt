@@ -1,1 +1,9 @@
-This is a sample file for testing
+This is a sample file for testing.
+I have now added the 2nd line to test if the file is updated in github
+
+More lines added
+More lines added
+More lines added
+More lines added
+More lines added
+More lines added
