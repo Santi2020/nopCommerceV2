@@ -1,0 +1,140 @@
+2022-02-15 13:04:45,384 [main] INFO nopCommerce - TC_AddCustomerTest_003 - URL opened http://admin-demo.nopcommerce.com
+2022-02-15 13:04:45,794 [main] INFO nopCommerce - Clicking login  
+2022-02-15 13:04:49,026 [main] INFO nopCommerce - TC_AddCustomerTest_003 - Adding new customer details
+2022-02-15 13:06:40,982 [main] INFO nopCommerce - TC_AddCustomerTest_003 - URL opened http://admin-demo.nopcommerce.com
+2022-02-15 13:06:41,406 [main] INFO nopCommerce - Clicking login  
+2022-02-15 13:06:44,505 [main] INFO nopCommerce - TC_AddCustomerTest_003 - Adding new customer details
+2022-02-15 13:06:50,199 [main] INFO nopCommerce - Validation started after cliccking save
+2022-02-15 13:12:34,819 [main] INFO nopCommerce - TC_AddCustomerTest_003 - URL opened http://admin-demo.nopcommerce.com
+2022-02-15 13:12:35,161 [main] INFO nopCommerce - Clicking login  
+2022-02-15 13:12:38,299 [main] INFO nopCommerce - TC_AddCustomerTest_003 - Adding new customer details
+2022-02-15 13:12:41,489 [main] INFO nopCommerce - TC_AddCustomerTest_003 - Setting
+2022-02-15 13:14:48,572 [main] INFO nopCommerce - TC_AddCustomerTest_003 - URL opened http://admin-demo.nopcommerce.com
+2022-02-15 13:14:48,930 [main] INFO nopCommerce - Clicking login  
+2022-02-15 13:14:51,810 [main] INFO nopCommerce - TC_AddCustomerTest_003 - Adding new customer details
+2022-02-15 13:14:55,181 [main] INFO nopCommerce - TC_AddCustomerTest_003 - Setting
+2022-02-15 13:17:06,296 [main] INFO nopCommerce - TC_AddCustomerTest_003 - URL opened http://admin-demo.nopcommerce.com
+2022-02-15 13:17:06,639 [main] INFO nopCommerce - Clicking login  
+2022-02-15 13:17:09,604 [main] INFO nopCommerce - TC_AddCustomerTest_003 - Adding new customer details
+2022-02-15 13:17:13,111 [main] INFO nopCommerce - TC_AddCustomerTest_003 - Setting
+2022-02-15 13:33:59,660 [main] INFO nopCommerce - TC_AddCustomerTest_003 - URL opened http://admin-demo.nopcommerce.com
+2022-02-15 13:33:59,993 [main] INFO nopCommerce - Clicking login  
+2022-02-15 13:34:03,718 [main] INFO nopCommerce - TC_AddCustomerTest_003 - Adding new customer details
+2022-02-15 13:34:07,988 [main] INFO nopCommerce - TC_AddCustomerTest_003 - Setting
+2022-02-15 13:38:02,213 [main] INFO nopCommerce - TC_AddCustomerTest_003 - URL opened http://admin-demo.nopcommerce.com
+2022-02-15 13:38:02,588 [main] INFO nopCommerce - Clicking login  
+2022-02-15 13:38:05,703 [main] INFO nopCommerce - TC_AddCustomerTest_003 - Adding new customer details
+2022-02-15 13:38:09,917 [main] INFO nopCommerce - TC_AddCustomerTest_003 - Setting
+2022-02-15 13:41:46,230 [main] INFO nopCommerce - TC_AddCustomerTest_003 - URL opened http://admin-demo.nopcommerce.com
+2022-02-15 13:41:46,640 [main] INFO nopCommerce - Clicking login  
+2022-02-15 13:41:49,664 [main] INFO nopCommerce - TC_AddCustomerTest_003 - Adding new customer details
+2022-02-15 13:41:53,729 [main] INFO nopCommerce - TC_AddCustomerTest_003 - Setting
+2022-02-15 13:44:23,315 [main] INFO nopCommerce - TC_AddCustomerTest_003 - URL opened http://admin-demo.nopcommerce.com
+2022-02-15 13:44:45,724 [main] INFO nopCommerce - TC_AddCustomerTest_003 - URL opened http://admin-demo.nopcommerce.com
+2022-02-15 13:44:46,069 [main] INFO nopCommerce - Clicking login  
+2022-02-15 13:44:49,389 [main] INFO nopCommerce - TC_AddCustomerTest_003 - Adding new customer details
+2022-02-15 13:44:53,597 [main] INFO nopCommerce - TC_AddCustomerTest_003 - Setting
+2022-02-15 13:54:11,917 [main] INFO nopCommerce - TC_AddCustomerTest_003 - URL opened http://admin-demo.nopcommerce.com
+2022-02-15 13:54:12,276 [main] INFO nopCommerce - Clicking login  
+2022-02-15 13:54:33,923 [main] INFO nopCommerce - TC_AddCustomerTest_003 - URL opened http://admin-demo.nopcommerce.com
+2022-02-15 13:54:34,276 [main] INFO nopCommerce - Clicking login  
+2022-02-15 13:54:46,749 [main] INFO nopCommerce - TC_AddCustomerTest_003 - Adding new customer details
+2022-02-15 13:54:53,613 [main] INFO nopCommerce - TC_AddCustomerTest_003 - Setting
+2022-02-15 14:35:56,486 [main] INFO nopCommerce - TC_AddCustomerTest_003 - URL opened http://admin-demo.nopcommerce.com
+2022-02-15 14:35:56,858 [main] INFO nopCommerce - Clicking login  
+2022-02-15 14:36:00,321 [main] INFO nopCommerce - TC_AddCustomerTest_003 - Adding new customer details
+2022-02-15 14:36:04,700 [main] INFO nopCommerce - TC_AddCustomerTest_003 - Setting
+2022-02-15 14:39:16,053 [main] INFO nopCommerce - TC_AddCustomerTest_003 - URL opened http://admin-demo.nopcommerce.com
+2022-02-15 14:39:16,460 [main] INFO nopCommerce - Clicking login  
+2022-02-15 14:39:20,255 [main] INFO nopCommerce - TC_AddCustomerTest_003 - Adding new customer details
+2022-02-15 14:39:24,589 [main] INFO nopCommerce - TC_AddCustomerTest_003 - Setting
+2022-02-15 14:47:44,766 [main] INFO nopCommerce - TC_AddCustomerTest_003 - URL opened http://admin-demo.nopcommerce.com
+2022-02-15 14:48:47,863 [main] INFO nopCommerce - TC_AddCustomerTest_003 - URL opened http://admin-demo.nopcommerce.com
+2022-02-15 14:48:48,480 [main] INFO nopCommerce - Clicking login  
+2022-02-15 14:49:02,432 [main] INFO nopCommerce - TC_AddCustomerTest_003 - Adding new customer details
+2022-02-15 14:50:31,905 [main] INFO nopCommerce - TC_AddCustomerTest_003 - URL opened http://admin-demo.nopcommerce.com
+2022-02-15 14:50:32,279 [main] INFO nopCommerce - Clicking login  
+2022-02-15 14:50:35,220 [main] INFO nopCommerce - TC_AddCustomerTest_003 - Adding new customer details
+2022-02-15 14:50:43,979 [main] INFO nopCommerce - TC_AddCustomerTest_003 - Setting
+2022-02-15 14:54:09,079 [main] INFO nopCommerce - TC_AddCustomerTest_003 - URL opened http://admin-demo.nopcommerce.com
+2022-02-15 14:54:09,465 [main] INFO nopCommerce - Clicking login  
+2022-02-15 14:54:17,563 [main] INFO nopCommerce - TC_AddCustomerTest_003 - Adding new customer details
+2022-02-15 14:54:24,506 [main] INFO nopCommerce - TC_AddCustomerTest_003 - Setting
+2022-02-15 14:56:34,095 [main] INFO nopCommerce - TC_AddCustomerTest_003 - URL opened http://admin-demo.nopcommerce.com
+2022-02-15 14:56:50,873 [main] INFO nopCommerce - TC_AddCustomerTest_003 - URL opened http://admin-demo.nopcommerce.com
+2022-02-15 14:56:51,280 [main] INFO nopCommerce - Clicking login  
+2022-02-15 14:56:58,472 [main] INFO nopCommerce - TC_AddCustomerTest_003 - Adding new customer details
+2022-02-15 14:57:08,228 [main] INFO nopCommerce - TC_AddCustomerTest_003 - Setting
+2022-02-15 14:57:55,849 [main] INFO nopCommerce - TC_AddCustomerTest_003 - URL opened http://admin-demo.nopcommerce.com
+2022-02-15 14:57:56,566 [main] INFO nopCommerce - Clicking login  
+2022-02-15 14:57:59,752 [main] INFO nopCommerce - TC_AddCustomerTest_003 - Adding new customer details
+2022-02-15 14:58:03,489 [main] INFO nopCommerce - TC_AddCustomerTest_003 - Setting
+2022-02-15 15:04:07,136 [main] INFO nopCommerce - TC_AddCustomerTest_003 - URL opened http://admin-demo.nopcommerce.com
+2022-02-15 15:04:07,524 [main] INFO nopCommerce - Clicking login  
+2022-02-15 15:04:11,026 [main] INFO nopCommerce - TC_AddCustomerTest_003 - Adding new customer details
+2022-02-15 15:04:15,392 [main] INFO nopCommerce - TC_AddCustomerTest_003 - Setting
+2022-02-15 15:04:25,851 [main] INFO nopCommerce - Validation started after cliccking save
+2022-02-15 15:05:39,489 [main] INFO nopCommerce - TC_AddCustomerTest_003 - URL opened http://admin-demo.nopcommerce.com
+2022-02-15 15:05:39,811 [main] INFO nopCommerce - Clicking login  
+2022-02-15 15:05:43,523 [main] INFO nopCommerce - TC_AddCustomerTest_003 - Adding new customer details
+2022-02-15 15:05:48,186 [main] INFO nopCommerce - TC_AddCustomerTest_003 - Setting
+2022-02-15 15:06:00,631 [main] INFO nopCommerce - Validation started after cliccking save
+2022-02-15 15:12:38,077 [main] INFO nopCommerce - TC_AddCustomerTest_003 - URL opened http://admin-demo.nopcommerce.com
+2022-02-15 15:12:38,420 [main] INFO nopCommerce - Clicking login  
+2022-02-15 15:12:41,919 [main] INFO nopCommerce - TC_AddCustomerTest_003 - Adding new customer details
+2022-02-15 15:12:45,777 [main] INFO nopCommerce - TC_AddCustomerTest_003 - Setting
+2022-02-15 15:12:58,667 [main] INFO nopCommerce - Validation started after cliccking save
+2022-02-15 18:05:45,292 [main] INFO nopCommerce - TC_AddCustomerTest_003 - URL opened http://admin-demo.nopcommerce.com
+2022-02-15 18:05:45,802 [main] INFO nopCommerce - Clicking login  
+2022-02-15 18:05:48,720 [main] INFO nopCommerce - TC_AddCustomerTest_003 - Adding new customer details
+2022-02-15 18:05:53,199 [main] INFO nopCommerce - TC_AddCustomerTest_003 - Setting
+2022-02-15 18:06:01,735 [main] INFO nopCommerce - Validation started after cliccking save
+2022-02-15 18:06:02,458 [main] INFO nopCommerce - Test case passed
+2022-02-15 18:16:02,692 [main] INFO nopCommerce - TC_AddCustomerTest_003 - URL opened http://admin-demo.nopcommerce.com
+2022-02-15 18:16:03,083 [main] INFO nopCommerce - Clicking login  
+2022-02-15 18:16:06,363 [main] INFO nopCommerce - TC_AddCustomerTest_003 - Adding new customer details
+2022-02-15 18:16:10,398 [main] INFO nopCommerce - TC_AddCustomerTest_003 - Setting
+2022-02-15 18:16:19,120 [main] INFO nopCommerce - Validation started after cliccking save
+2022-02-15 18:16:19,705 [main] INFO nopCommerce - Test case passed
+2022-02-15 18:52:56,172 [main] INFO nopCommerce - TC_AddCustomerTest_003 - URL opened http://admin-demo.nopcommerce.com
+2022-02-15 18:52:56,675 [main] INFO nopCommerce - Clicking login  
+2022-02-15 18:52:59,912 [main] INFO nopCommerce - TC_AddCustomerTest_003 - Adding new customer details
+2022-02-15 18:53:06,946 [main] INFO nopCommerce - TC_AddCustomerTest_003 - Setting
+2022-02-15 18:53:15,799 [main] INFO nopCommerce - Validation started after cliccking save
+2022-02-15 18:53:16,347 [main] INFO nopCommerce - Test case passed
+2022-02-16 09:07:15,204 [main] INFO nopCommerce - TC_AddCustomerTest_003 - URL opened http://admin-demo.nopcommerce.com
+2022-02-16 09:07:15,703 [main] INFO nopCommerce - Clicking login  
+2022-02-16 09:07:19,123 [main] INFO nopCommerce - TC_AddCustomerTest_003 - Adding new customer details
+2022-02-16 09:07:23,669 [main] INFO nopCommerce - TC_AddCustomerTest_003 - Setting
+2022-02-16 09:07:32,501 [main] INFO nopCommerce - Validation started after cliccking save
+2022-02-16 09:07:33,106 [main] INFO nopCommerce - Test case passed
+2022-02-16 09:27:40,667 [main] INFO nopCommerce - TC_AddCustomerTest_003 - URL opened http://admin-demo.nopcommerce.com
+2022-02-16 09:27:41,039 [main] INFO nopCommerce - Clicking login  
+2022-02-16 09:27:44,696 [main] INFO nopCommerce - TC_AddCustomerTest_003 - Adding new customer details
+2022-02-16 09:27:50,350 [main] INFO nopCommerce - TC_AddCustomerTest_003 - Setting
+2022-02-16 09:27:59,672 [main] INFO nopCommerce - Validation started after cliccking save
+2022-02-16 09:28:00,212 [main] INFO nopCommerce - Test case passed
+2022-02-16 09:30:35,674 [main] INFO nopCommerce - TC_AddCustomerTest_003 - URL opened http://admin-demo.nopcommerce.com
+2022-02-16 09:30:36,105 [main] INFO nopCommerce - Clicking login  
+2022-02-16 09:30:39,753 [main] INFO nopCommerce - TC_AddCustomerTest_003 - Adding new customer details
+2022-02-16 09:30:44,409 [main] INFO nopCommerce - TC_AddCustomerTest_003 - Setting
+2022-02-16 09:30:53,616 [main] INFO nopCommerce - Validation started after cliccking save
+2022-02-16 09:30:54,358 [main] INFO nopCommerce - Test case passed
+2022-02-16 18:21:53,865 [main] INFO nopCommerce - TC_AddCustomerTest_003 - URL opened http://admin-demo.nopcommerce.com
+2022-02-16 18:21:54,254 [main] INFO nopCommerce - Clicking login  
+2022-02-16 18:21:58,022 [main] INFO nopCommerce - TC_AddCustomerTest_003 - Adding new customer details
+2022-02-16 18:22:03,260 [main] INFO nopCommerce - TC_AddCustomerTest_003 - Setting
+2022-02-16 18:22:11,515 [main] INFO nopCommerce - Validation started after cliccking save
+2022-02-16 18:22:11,998 [main] INFO nopCommerce - Test case passed
+2022-02-16 20:45:52,338 [main] INFO nopCommerce - TC_AddCustomerTest_003 - URL opened http://admin-demo.nopcommerce.com
+2022-02-16 20:45:52,715 [main] INFO nopCommerce - Clicking login  
+2022-02-16 20:45:56,101 [main] INFO nopCommerce - TC_AddCustomerTest_003 - Adding new customer details
+2022-02-16 20:46:00,841 [main] INFO nopCommerce - TC_AddCustomerTest_003 - Setting
+2022-02-16 20:46:09,038 [main] INFO nopCommerce - Validation started after cliccking save
+2022-02-16 20:46:09,581 [main] INFO nopCommerce - Test case passed
+2022-02-22 10:35:10,401 [main] INFO nopCommerce - TC_AddCustomerTest_003 - URL opened http://admin-demo.nopcommerce.com
+2022-02-22 10:35:10,790 [main] INFO nopCommerce - Clicking login  
+2022-02-22 10:35:13,783 [main] INFO nopCommerce - TC_AddCustomerTest_003 - Adding new customer details
+2022-02-22 10:35:18,510 [main] INFO nopCommerce - TC_AddCustomerTest_003 - Setting
+2022-02-22 10:35:27,299 [main] INFO nopCommerce - Validation started after cliccking save
+2022-02-22 10:35:27,920 [main] INFO nopCommerce - Test case passed
